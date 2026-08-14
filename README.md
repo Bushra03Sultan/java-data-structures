@@ -9,15 +9,14 @@ A comprehensive collection of fundamental Data Structures and Algorithms impleme
 | Module / Folder | Description |
 | :--- | :--- |
 | 🔹 Array | Array operations, traversals, and basic manipulations. |
-| 🔹 singly Linked List / Simple Linked List | Singly Linked List implementations and operations. |
+| 🔹 singly Linked List | Singly Linked List implementations and core operations. |
 | 🔹 Doubly linked list | Doubly Linked List with forward and backward pointer management. |
-| 🔹 Queue / priorty Queue | Standard FIFO Queues and Priority Queue implementations. |
+| 🔹 Queue / priority Queue | Standard FIFO Queues and Priority Queue implementations. |
 | 🔹 Stackes | LIFO Stack structures and application examples. |
-| 🔹 Binary Tree / Binary Recursion | Binary Tree nodes, tree traversals, and recursion techniques. |
+| 🔹 Binary Tree | Binary Tree nodes, tree traversals, and recursive techniques. |
 | 🔹 Map hashing and Sorting | Hash maps, hashing algorithms, and sorting methods. |
 | 🔹 Recursion | Recursive logic, base cases, and problem solving. |
 | 🔹 Text Search | String matching and text search algorithms. |
-| 🔹 Network Message Reconstruction... | Applied project: Reconstructing network packets using Linked Lists. |
 
 ---
 ## 🛠️ Prerequisites & Tools
@@ -26,6 +25,16 @@ A comprehensive collection of fundamental Data Structures and Algorithms impleme
 ---
 ## 🚀 How to Run
 1. Clone the repository:
-   `bash
-   git clone [https://github.com/Bushra03Sultan/java-data-structures.git](https://github.com/Bushra03Sultan/java-data-structures.git)
+  
+   git clone https://github.com/Bushra03Sultan/java-data-structures.git
    
+2. Navigate to the repository:
+  
+   cd java-data-structures
+   
+3. Open any subfolder in your favorite Java IDE and execute the main file.
+---
+## 👩‍💻 Author
+Boshra Farooq
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bushra03Sultan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bushra-faruq-906696429)
