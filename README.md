@@ -35,6 +35,6 @@ A comprehensive collection of fundamental Data Structures and Algorithms impleme
 3. Open any subfolder in your favorite Java IDE and execute the main file.
 ---
 ## 👩‍💻 Author
-Boshra Farooq
+Boshra Faruq
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bushra03Sultan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bushra-faruq-906696429)
